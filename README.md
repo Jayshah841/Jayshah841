@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayshah841
-- 👀 I’m interested in .NET Core Web API/Angular
+- 👀 I’m interested in .NET Core Web API/Angular/React/Next.js
 - 🌱 I’m currently learning Azure Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on jayshah841@gmail.com
